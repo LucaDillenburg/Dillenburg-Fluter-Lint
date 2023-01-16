@@ -8,3 +8,4 @@ environment:
 
 dev_dependencies:
   dillenburglints: ^1.0.0
+  effective_dart:
