@@ -1,0 +1,12 @@
+name: dillenburglints
+version: 1.0.0
+description: Dillenburg Services Dart lint rules.
+repository: https://github.com/LucaDillenburg/Dillenburg-Lints
+
+environment:
+  sdk: '>=2.17.0 <3.0.0'
+
+# NOTE: Code is not allowed in this package. Do not add dependencies.
+# dependencies:
+dev_dependencies:
+  effective_dart: ^1.3.2
