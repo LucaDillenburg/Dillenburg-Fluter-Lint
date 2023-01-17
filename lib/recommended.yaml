@@ -32,3 +32,4 @@ analyzer:
     avoid_types_on_closure_parameters: ignore
     avoid_returning_null: ignore
     prefer_function_declarations_over_variables: ignore
+    lines_longer_than_80_chars: ignore
