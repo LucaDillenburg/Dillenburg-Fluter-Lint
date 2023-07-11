@@ -1,4 +1,8 @@
-## 1.0.2
+## 1.0.3
+
+- Remove strong-mode which generated warnings
+
+- ## 1.0.2
 
 - Ignore lines_longer_than_80_chars
 
