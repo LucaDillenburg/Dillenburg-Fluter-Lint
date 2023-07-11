@@ -10,9 +10,6 @@ analyzer:
   exclude:
     - lib/**/*.*.dart
     - packages/**/*.*.dart
-  strong-mode:
-    implicit-casts: false
-    implicit-dynamic: false
   errors:
     # error
     unrelated_type_equality_checks: error
